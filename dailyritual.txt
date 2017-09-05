@@ -1,0 +1,16 @@
+Daily Ritual
+by MrValdez
+
+Daily Ritual is a SNES game from the 1990s where the player has just woke up and decided to go to their favorite social media: Barrker.
+
+An SNES game from the 1990s where the player has just woke up and decided to go to their favorite social media: Barrker. 
+Help the main character read and re-bark the different barrks so that they will have the energy to get to work. 
+Features: * Hyper realistic 16 bit graphics * Use Futuristic technology called the PADD; which allow you to use the computer from your bed! 
+No more going to your 486 and looking at your CRT. This is the future! With amazing 145x80 resolution! * Uses only two buttons! * Manuals!
+
+http://globalgamejam.org/2016/games/daily-ritual-4
+
+Video Link: 
+https://www.youtube.com/watch?v=te21epc6_vg
+Repository Link: 
+https://github.com/MrValdez/GGJ2016

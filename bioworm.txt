@@ -1,0 +1,4 @@
+Bio Worm (25-08-1996)
+By Wani
+
+Arcade game where yo have to shoot your enemies on a Pacman style battle field.

@@ -1,0 +1,7 @@
+SNAKE BLASTERS
+by SMILE!
+
+A Space Invaders style game in which you try to shoot down snakes that are bouncing around the screen. 
+There are a few annoying sound bytes, but it is mostly devoid of sound.
+
+https://www.youtube.com/watch?v=X9ilXtgJb7c

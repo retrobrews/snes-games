@@ -1,0 +1,6 @@
+BUCKET
+by SEBASTIAN MIHAI
+
+You control Hugz the polar bear, who must deliver buckets to the angry walruses roaming about. 
+Pick up buckets with the A button and place them on the ground with the B button, so that walruses walk into them. 
+But be careful - if you get hit by a walrus, you have to start over! Once a walrus reaches a bucket, it becomes pacified and disappears.
