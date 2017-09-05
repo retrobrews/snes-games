@@ -2,3 +2,5 @@ Airwolf (25-08-1996)
 By Pure Byte
 
 Airwolf is a simple shoot the objects game for SNES.
+
+https://www.youtube.com/watch?v=aAARwvzthnY
