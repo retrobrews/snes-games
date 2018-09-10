@@ -22,3 +22,5 @@ Homebrew SNES games:
 - SNAKE BLASTERS<br />
 - SUPER BOSS GAIDEN<br />
 - TCHOU 2<br />
+
+*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please let me know immi on retrobrewsATgmail.com. Thanks!
