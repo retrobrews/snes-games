@@ -144,6 +144,18 @@
           <genre>HILDA</genre>
           <players>1</players>
         </game>
+       <game>
+          <path>./jetpilotrising.sfc</path>
+          <name>JET PILOT RISING</name>
+          <desc>A single-button game featuring a cat riding a rocket.</desc>
+          <image>./jetpilotrising.png</image>
+          <rating>0</rating>
+          <releasedate>20080211T000000</releasedate>
+          <developer>DIETER VON LASER (D4S)</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>JET PILOT RISING</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./mazezam.fig</path>
           <name>MAZEZAM</name>
@@ -175,7 +187,7 @@
           <image>./nwarpdaisakusen.png</image>
           <rating>0</rating>
           <releasedate>20090515T000000</releasedate>
-          <developer>D4S</developer>
+          <developer>DIETER VON LASER (D4S)</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>N-WARP DAISAKUSEN</genre>
           <players>8</players>
