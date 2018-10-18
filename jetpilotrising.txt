@@ -1,0 +1,8 @@
+Jet Pilot Rising (J) (V1.1)
+Released By	d4s
+Release Date	11 February 2018
+
+Description:
+A single-button game featuring a cat riding a rocket.
+
+License: Unlicensed game.
