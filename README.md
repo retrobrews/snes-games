@@ -13,6 +13,7 @@ Homebrew SNES games:
 - DYNAMATE<br />
 - FURRY RPG<br />
 - HILDA<br />
+- JET PILOT RISING<br />
 - MEGA FAMILY BROS<br />
 - MAZEZAM<br />
 - N-WARP DAISAKUSEN<br />
