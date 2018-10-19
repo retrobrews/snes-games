@@ -1,38 +1,57 @@
-FURRY RPG! – A new SNES game currently in development
+Furry RPG! (Working Title)
 by Ramsis
+2018/10/19
 
-What is »FURRY RPG!«?
+An all-new role-playing game for SNES, currently in development! 
 
-Furry RPG! (working title) is a brand-new new SNES RPG currently in development. The game is planned to be released as open-source software, though this hasn't been decided yet.
+Welcome to Furry RPG!, an all-new Japanese-style role-playing game for the Super Nintendo Entertainment System, or SNES. The game is currently in development.
 
-Furry RPG! will be an RPG with action/adventure elements (think Chrono Trigger, Tales of Phantasia, or Star Ocean). »Furry« means that all the characters in the game are anthropomorphic animals, like wolves and big cats. (Rawr!)
+Implemented features:
+    Epic storyline spanning over multiple realms, featuring an all-Furry cast.
+    48 Mbit ROM size (ExHiROM) with SRAM-based game save support (think Tales of Phantasia). ROM expansion to 64 or even 96 Mbit may or may not be necessary in the future depending on the need for fitting all game data.
+    Extendable scripting language supporting up to 32,768 commands ("event codes").
+    High resolution, VWF-based multi-language dialog rendering engine, complete with character portrait, background color gradient, and Suikoden-style selection bar support.
+    Fully controllable, Mode-7-based "flying" animation with rotating sky background.
+    Fully controllable, Mode-1-based world map with scrolling displacement and horizon curvature effects, simulating a planet surface (think Treasure Hunter G).
+    Extendable area loading engine (four/eight-directional scrolling is WIP) with fully working sprite-to-BG collision detection support.
+    Full-fledged and easily extendable sprite animation engine.
+    High-quality, SNESGSS-based soundtrack engine with audio streaming support.
+    Optional ambient sound effects featuring real recordings thanks to MSU-1 support (only available on advanced emulators/flashcarts like higan/bsnes and SD2SNES).
+    Optional real-time clock support (only available on certain emulators and advanced flashcarts like higan/bsnes and SD2SNES).
+    ... and more!
+
+Planned features:
+    More or less open world (story-related restrictions apply).
+    Several endings, each requiring the player to make specific choices during the course of the game.
+    Homebase building (think Breath of Fire II, Suikoden).
+    Optional, mostly unmissable sidequests (think Chrono Trigger).
+    Day/night cycle (even when no RTC available).
+    Daytime-related special events.
+    Semi-realtime battle system with different "special gauges" for each character.
+    Full-screen cutscenes, maybe even FMV (only when MSU-1 is available).
+    Character sympathy/affection score system impacting game events and/or endings.
+    Log/notebook providing hints (once acquired) on what to do next.
+    Unlockable character and cut scene galleries/sound test/mini games/special features/you name it.
+
+
+Note that all graphics is placeholder artwork. Screenshots were made using higan v106.
+
+
+Latest build -->  https://github.com/Ramsis-SNES/furryrpg/raw/master/furryrpg.sfc
 
 
 
-The Story
 
-Warning – major spoilers ahead!
+Help wanted!
 
-On learning that a »ghost« haunts their village as of late, scaring the kids and stealing food from unlocked pantries, best friends Alec Marlowe, a young hunter (lion), and skeptic scholar Lilac Pondicherry (tigress) join foreign soldier Primus Greyfur (wolf) for a trip into the vast forest just beyond their doorstep. Bent on hunting down and uncovering the villain, whom they suspect to be very fleshly in appearance (although furred, of course), the three venture deep into the woods, where they eventually make a discovery that will forever change their destinies as well as the history of their country, the Republic of Librefur. For in an abandoned military outpost, unbeknownst to anyfur, Reinhold von Pappenheim (fox/coyote?) has been living a secret life, with an unsightly fennec puppet named Dorothy as his sole companion.
- 
-Initially posing as a trickster and ventriloquist, Reinhold is soon revealed to be the exiled heir to the throne of Fleckenstein Kingdom, beyond the Republic’s eastern border. He tells Alec and his friends of an uprising in his home country. The rebel forces are supposedly led by »the Badger,« whose sole purpose in life appears to be to overthrow the reign of the Pappenheim line of kings, and plunge the realm into chaos and destruction.
- 
-Convinced that his new friend should be lent a paw returning to his people, claiming back the throne and restoring peace to Fleckenstein, Alec and his comrades join Reinhold on a journey back to the kingdom—only to find it in full preparation for war against its three neighboring states: the Furderal Empire, to the south, the Free County of Coathill in the north, and the Republic of Librefur, due west.
- 
-Shocked about this finding, Alec and Lilac agree to return home in order to warn both the Palace and the population of Librefur of the impending invasion. But before they can even leave the capital of Fleckenstein, the four friends are all arrested and put in separate jails, knowing they will be publically executed on the very next morning for alleged high treason. However, Alec, Lilac and Primus are found and liberated at night by nofur else than »the Badger« himself, a.k.a. Kilian Lacrimo della Valle (cheetah), who tells them that Reinhold was nowhere to be found and has most likely already been killed.
- 
-During their journey back to the Republic of Librefur, the remaining three tell Kilian about Reinhold’s identity. Kilian, in turn, explains that nothing of what Reinhold told them was true. According to »the Badger,« the Pappenheim reign is actually a ruthless and cruel dictatorship that needs to keep up its outward saber-rattling so as to remain credible to its large amount of faithful citizens, and that the rebels indeed intend to rid the country of its unfurvorable leader. He reminds Alec that he and his friends are far too deeply involved within the conflict to go back to their normal lives anymore—as Fleckenstein assassins have already been sent out to track them down—and instead convinces them to retreat to the abandoned outpost in the forest, fortify it in case they are discovered by Fleckenstein spies, and aid the resistance from there.
- 
-In time, they are joined by others hoping to stop Fleckenstein: young Damian Fleck (jaguar/leopard?), a martial artist who is loyal to his home kingdom, yet afraid the Pappenheim’s war-mongering might wreak havoc on it; Tara of Idenmarch (lynx), a Fleckenstein refugee who saw her family being murdered by Pappenheim’s henchmen; Gregory P. E. H. Eindhoven Dubois Quaoar van der Muhlhausen Nido sulle Colline (bear), a would-be Coathill aristocratic who gets debunked quickly by Kilian and, being a carpenter, decides to help rebuilding the outpost; Kit, an orphan foxling whose flute-playing ensnares friends and foes alike; and several others (i.e., secret characters).
- 
-When the motley crew around Alec finally re-enter Fleckenstein Kingdom to confront Reinhold in the hopes of ending the war before it really begins, they appear to succeed—only to realize that hardly anyfur amongst them is actually what he or she pretends. Not only that, but the real threat is found to stem from deeper than the deluded minds of those few who seek to conquer the lands around them.
- 
-In the end, Alec has to make a decision the world he knows depends upon—as do both his own life and the lives of all his friends …
+If you happen to be a Furry designer/illustrator, pixel artist, SNES programmer, and/or music composer, you are welcome to contribute to this open-source freeware project. 
+If you feel your skills could be of help, please contact me by e-mail (ramsis @ the domain name of my website --> https://manuloewe.de/).
+
+Thanks!
+Discuss the project:
+
+    Discuss in English --> https://forums.nesdev.com/viewtopic.php?f=12&t=12317
+    Discuss in German --> https://forum.snesfreaks.com/viewtopic.php?f=157&t=13720
 
 
-
-How far advanced is the project?
-
-Take a look for yourself:
-
-http://nintendoage.com/forum/messageview.cfm?catid=22&threadid=144827
+https://github.com/Ramsis-SNES/furryrpg/blob/master/README.md
