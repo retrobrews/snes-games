@@ -1,9 +1,0 @@
-MazezaM v0.97
-By Dr. Hirudo
-
-
-MazezaM (pronounced “may-zam”) is a simple puzzle game. 
-You enter the mazezam on the left and you have to get to the exit on the right by pushing rows of blocks left and right.
-If you get stuck you can retry the mazezam, but this will cost you a life. 
-Use the control pad to move the character. 
-Press A and the Y buttons simultaneitously to retry the level.
