@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <gameList>
         <game>
-          <path>./airwolf.smc</path>
-          <name>AIRWOLF</name>
-          <desc>Airwolf is a simple shoot the objects game for SNES.</desc>
-          <image>./airwolf.png</image>
-          <rating>0</rating>
-          <releasedate>19960825T000000</releasedate>
-          <developer>Pure Byte</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>AIRWOLF</genre>
-          <players>1</players>
-        </game>
-        <game>
           <path>./astrohawk.smc</path>
           <name>ASTROHAWK</name>
           <desc>Solid Asteroids style game for SNES.</desc>
@@ -25,30 +13,6 @@
           <players>1</players>
         </game>
         <game>
-          <path>./bioworm.smc</path>
-          <name>BIO WORM</name>
-          <desc>Arcade game where yo have to shoot your enemies on a Pacman style battle field.</desc>
-          <image>./bioworm.png</image>
-          <rating>0</rating>
-          <releasedate>19960825T000000</releasedate>
-          <developer>Wani</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>BIO WORM</genre>
-          <players>1</players>
-        </game>
-        <game>
-          <path>./blt.sfc</path>
-          <name>BLT</name>
-          <desc>Homebrew vertical shooter game featuring bacon.</desc>
-          <image>./blt.png</image>
-          <rating>0</rating>
-          <releasedate>20120826T000000</releasedate>
-          <developer>Charles Doty</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>BLT</genre>
-          <players>1</players>
-        </game>        
-        <game>
           <path>./bucket.smc</path>
           <name>BUCKET</name>
           <desc>You control Hugz the polar bear, who must deliver buckets to the angry walruses roaming about. Pick up buckets with the A button and place them on the ground with the B button, so that walruses walk into them. But be careful - if you get hit by a walrus, you have to start over! Once a walrus reaches a bucket, it becomes pacified and disappears.</desc>
@@ -58,66 +22,6 @@
           <developer>SEBASTIAN MIHAI</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>BUCKET</genre>
-          <players>1</players>
-        </game>        
-        <game>
-          <path>./christmascraze.smc</path>
-          <name>CHRISTMAS CRAZE</name>
-          <desc>A Christmas-themed platform game.</desc>
-          <image>./christmascraze.png</image>
-          <rating>0</rating>
-          <releasedate>20111113T000000</releasedate>
-          <developer>SHIRU</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>CHRISTMAS CRAZE</genre>
-          <players>1</players>
-        </game>
-        <game>
-          <path>./classickong.smc</path>
-          <name>CLASSIC KONG</name>
-          <desc>Classic Kong Complete 2.0. A remake of the classic arcade game with barrel jumping and ladder climbing madness for the SNES.</desc>
-          <image>./classickong.png</image>
-          <rating>0</rating>
-          <releasedate>20120914T000000</releasedate>
-          <developer>SHIRU</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>CLASSIC KONG</genre>
-          <players>1</players>
-        </game> 
-        <game>
-          <path>./cuteangela.smc</path>
-          <name>CUTE ANGELA - GREAT JOURNEY</name>
-          <desc>Cute Angel(a) for the SNES/Super Famicom</desc>
-          <image>./cuteangela.png</image>
-          <rating>0</rating>
-          <releasedate>20060618T000000</releasedate>
-          <developer>NATTEKOS</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>CUTE ANGELA - GREAT JOURNEY</genre>
-          <players>1</players>
-        </game> 
-        <game>
-          <path>./dailyritual.smc</path>
-          <name>DAILY RITUAL</name>
-          <desc>An SNES game from the 1990s where the player has just woke up and decided to go to their favorite social media: Barrker. Help the main character read and re-bark the different barrks so that they will have the energy to get to work.</desc>
-          <image>./dailyritual.png</image>
-          <rating>0</rating>
-          <releasedate>20160131T000000</releasedate>
-          <developer>MrValdez</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>DAILY RITUAL</genre>
-          <players>1</players>
-        </game>                               
-        <game>
-          <path>./dynamate.smc</path>
-          <name>DYNAMATE</name>
-          <desc>Dynamate is a free (as in free of charge) puzzle game.</desc>
-          <image>./dynamate.png</image>
-          <rating>0</rating>
-          <releasedate>20030313T000000</releasedate>
-          <developer>Lazze</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>DYNAMATE</genre>
           <players>1</players>
         </game>
         <game>
@@ -130,18 +34,6 @@
           <developer>Ramsis</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>FURRY RPG</genre>
-          <players>1</players>
-        </game>        
-        <game>
-          <path>./hilda.sfc</path>
-          <name>HILDA</name>
-          <desc>She sets to find her sister, and attain revenge for her parents death, along with the future restoration of her kingdom. What will happen next?</desc>
-          <image>./hilda.png</image>
-          <rating>0</rating>
-          <releasedate>20160908T000000</releasedate>
-          <developer>O_manko</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>HILDA</genre>
           <players>1</players>
         </game>
        <game>
@@ -156,30 +48,6 @@
           <genre>JET PILOT RISING</genre>
           <players>1</players>
        </game>
-        <game>
-          <path>./mazezam.fig</path>
-          <name>MAZEZAM</name>
-          <desc>MazezaM (pronounced &apos;may-zam&apos;) is a simple puzzle game. You enter the mazezam on the left and you have to get to the exit on the right by pushing rows of blocks left and right. If you get stuck you can retry the mazezam, but this will cost you a life. Use the control pad to move the character. Press A and the Y buttons simultaneitously to retry the level.</desc>
-          <image>./mazezam.png</image>
-          <rating>0</rating>
-          <releasedate>20060722T000000</releasedate>
-          <developer>Dr. Hirudo</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MAZEZAM</genre>
-          <players>1</players>
-        </game>        
-        <game>
-          <path>./megafamilybros.smc</path>
-          <name>MEGA FAMILY BROS</name>
-          <desc>The game is supposed to be a Jump'n'Run game, combining the gameplay of "Megaman" and "Super Mario"</desc>
-          <image>./megafamilybros.png</image>
-          <rating>0</rating>
-          <releasedate>20120911T000000</releasedate>
-          <developer>DIEUDUNET</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MEGA FAMILY BROS</genre>
-          <players>1</players>
-        </game>              
         <game>
           <path>./nwarpdaisakusen.smc</path>
           <name>N-WARP DAISAKUSEN</name>
@@ -203,7 +71,7 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>QUEST FOR MONEY</genre>
           <players>1</players>
-        </game>            
+        </game>
         <game>
           <path>./rockfall.smc</path>
           <name>ROCKFALL</name>
@@ -215,7 +83,7 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>ROCKFALL</genre>
           <players>1</players>
-        </game>              
+        </game>
         <game>
           <path>./saf.smc</path>
           <name>SKIPP AND FRIENDS: UNEXPECTED JOURNEY</name>
@@ -229,18 +97,6 @@
           <players>1</players>
         </game>
         <game>
-          <path>./snakeblasters.smc</path>
-          <name>SNAKE BLASTERS</name>
-          <desc>A Space Invaders style game in which you try to shoot down snakes that are bouncing around the screen. There are a few annoying sound bytes, but it is mostly devoid of sound.</desc>
-          <image>./snakeblasters.png</image>
-          <rating>0</rating>
-          <releasedate>19960131T000000</releasedate>
-          <developer>SMILE!</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>SNAKE BLASTERS</genre>
-          <players>1</players>
-        </game>
-        <game>
           <path>./superbossgaiden.sfc</path>
           <name>SUPER BOSS GAIDEN</name>
           <desc>This game is so much fun, wreck &apos;em all enemies in your way is so cool, the music is so great too.</desc>
@@ -251,17 +107,5 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>SUPER BOSS GAIDEN</genre>
           <players>1</players>
-        </game>        
-        <game>
-          <path>./tchouv2.smc</path>
-          <name>TCHOU 2</name>
-          <desc>Tchou is a green ET with big ears. He wins a ship at the lottery and now explores the universe. But today, he enters the galaxy of the Orange Evil Octopus? The goal is to survive many waves of foe, each wave coming with is own trajectory, resistance and speed. After some waves (depending of the level you choose) you&apos;ll reach the Boss . Try to survive to him now.</desc>
-          <image>./tchouv2.png</image>
-          <rating>0</rating>
-          <releasedate>20120824T000000</releasedate>
-          <developer>Debray Matthieu</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>TCHOU 2</genre>
-          <players>1</players>
-        </game>      
+        </game>     
   </gameList>
