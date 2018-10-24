@@ -1,4 +1,0 @@
-Dynamate v1.1
-By Lazze
-
-Dynamate is a free (as in free of charge) puzzle game available for Amiga 500,Neogeo Pocket Color, SNES, GP32, GBC, PalmOS, SymbianOS, BeOs, Linux, Dreamcast.
