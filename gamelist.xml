@@ -25,6 +25,18 @@
           <players>1</players>
         </game>
         <game>
+          <path>./dailyritual.smc</path>
+          <name>DAILY RITUAL</name>
+          <desc>An SNES game from the 1990s where the player has just woke up and decided to go to their favorite social media: Barrker. Help the main character read and re-bark the different barrks so that they will have the energy to get to work.</desc>
+          <image>./dailyritual.png</image>
+          <rating>0</rating>
+          <releasedate>20160131T000000</releasedate>
+          <developer>MrValdez</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>DAILY RITUAL</genre>
+          <players>1</players>
+        </game>
+        <game>
           <path>./furryrpg.sfc</path>
           <name>FURRY RPG</name>
           <desc>RPG game with action/adventure elements. Characters in the game are anthropomorphic animals, like wolves and big cats. Alec and Lilac agree to return home in order to warn both the Palace and the population of Librefur of the impending invasion. But before they can even leave the capital of Fleckenstein, the four friends are all arrested and put in separate jails, knowing they will be publically executed on the very next morning for alleged high treason. Alec has to make a decision the world he knows depends upon-as do both his own life and the lives of all his friends ... </desc>
