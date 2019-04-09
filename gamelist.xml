@@ -13,6 +13,18 @@
           <players>1</players>
         </game>
         <game>
+          <path>./blt.sfc</path>
+          <name>BLT</name>
+          <desc>Homebrew vertical shooter game featuring bacon.</desc>
+          <image>./blt.png</image>
+          <rating>0</rating>
+          <releasedate>20120826T000000</releasedate>
+          <developer>Charles Doty</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>BLT</genre>
+          <players>1</players>
+        </game>
+        <game>
           <path>./bucket.smc</path>
           <name>Bucket</name>
           <desc>You control Hugz the polar bear, who must deliver buckets to the angry walruses roaming about. Pick up buckets with the A button and place them on the ground with the B button, so that walruses walk into them. But be careful - if you get hit by a walrus, you have to start over! Once a walrus reaches a bucket, it becomes pacified and disappears.</desc>
@@ -48,6 +60,18 @@
           <genre>Jet Pilot Rising [v.1.1]</genre>
           <players>1</players>
        </game>
+        <game>
+          <path>./megafamilybros.smc</path>
+          <name>MEGA FAMILY BROS</name>
+          <desc>The game is supposed to be a Jump'n'Run game, combining the gameplay of "Megaman" and "Super Mario"</desc>
+          <image>./megafamilybros.png</image>
+          <rating>0</rating>
+          <releasedate>20120911T000000</releasedate>
+          <developer>Debray Matthieu (Dieudunet)</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>MEGA FAMILY BROS</genre>
+          <players>1</players>
+        </game>
         <game>
           <path>./nwarpdaisakusen.smc</path>
           <name>N-Warp Daisakusen</name>
@@ -107,5 +131,17 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>Super Boss Gaiden [v.1.2]</genre>
           <players>1</players>
-        </game>     
+        </game>
+        <game>
+          <path>./tchouv2.smc</path>
+          <name>Tchou 2</name>
+          <desc>Tchou is a green ET with big ears. He wins a ship at the lottery and now explores the universe. But today, he enters the galaxy of the Orange Evil Octopus? The goal is to survive many waves of foe, each wave coming with is own trajectory, resistance and speed. After some waves (depending of the level you choose) you&apos;ll reach the Boss . Try to survive to him now.</desc>
+          <image>./tchouv2.png</image>
+          <rating>0</rating>
+          <releasedate>20120824T000000</releasedate>
+          <developer>Debray Matthieu (Dieudunet)</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Tchou 2</genre>
+          <players>1</players>
+        </game>
   </gameList>
