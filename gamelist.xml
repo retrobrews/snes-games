@@ -48,6 +48,30 @@
           <genre>Furry RPG</genre>
           <players>1</players>
         </game>
+        <game>
+          <path>./hilda.sfc</path>
+          <name>Hilda</name>
+          <desc>She sets to find her sister, and attain revenge for her parents death, along with the future restoration of her kingdom. What will happen next?</desc>
+          <image>./hilda.png</image>
+          <rating>0</rating>
+          <releasedate>20160908T000000</releasedate>
+          <developer>Orochii Zouveleki (O_manko)</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Hilda</genre>
+          <players>1</players>
+        </game>
+        <game>
+          <path>./horizontal-shooter.sfc</path>
+          <name>Horizontal Shooter</name>
+          <desc>A simple SNES horizontal shooter demo game. Controls: D-Pad - Move Ship; B - Shoot</desc>
+          <image>./horizontal-shooter.png</image>
+          <rating>0</rating>
+          <releasedate>20160927T000000</releasedate>
+          <developer>Marcus Rowe (Undisbeliever)</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Horizontal Shooter v1.0</genre>
+          <players>1</players>
+        </game>
        <game>
           <path>./jetpilotrising.sfc</path>
           <name>Jet Pilot Rising</name>
