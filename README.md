@@ -5,7 +5,8 @@ Homebrew SNES games:
  - <b>Blt</b> by Charles Doty (cdoty)
  - <b>Bucket</b> by Sebastian Mihai
  - <b>Furry RPG</b> by Ramsis
- - <b>Hilda</b> by O_manko
+ - <b>Hilda</b> by Orochii Zouveleki (O_manko)
+ - <b>Horizontal Shooter</b> by Marcus Rowe (Undisbeliever)
  - <b>Jet Pilot Rising</b> by Dieter Von Laser (D4S)
  - <b>Mega Family Bros</b> by Debray Matthieu (Dieudunet)
  - <b>N-Warp Daisakusen</b> by Dieter Von Laser (D4S)
